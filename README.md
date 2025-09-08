@@ -7,7 +7,7 @@
 
 
 
-- 💬 Ask me about **Html,Css,Javascript,Gsap,c,c++,canvas
+- 💬 Ask me about *HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, GSAP, C, C++, Canvas, React
 
 - 📫 How to reach me **devilprakashdas@gmail.com**
 
