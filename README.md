@@ -7,7 +7,7 @@
 
 
 
-- 💬 Ask me about **Html,Css,Javascript,Gsap**
+- 💬 Ask me about **Html,Css,Javascript,Gsap,c,c++,canvas
 
 - 📫 How to reach me **devilprakashdas@gmail.com**
 
