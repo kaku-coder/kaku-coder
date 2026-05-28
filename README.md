@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prakash%20Das&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=MERN%20Stack%20Developer%20%7C%20MCA%20Student%20%7C%20Bhubaneswar%2C%20India&descAlignY=55&descSize=16" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=D1A01F&center=true&vCenter=true&width=800&height=80&lines=Hey+%F0%9F%91%8B+I'm+Prakash+Das!;MERN+Stack+Developer+%F0%9F%9A%80;MCA+Student+%7C+Bhubaneswar+%F0%9F%87%AE%F0%9F%87%B3;Building+cool+stuff+with+code+%F0%9F%92%BB" alt="Typing SVG" />
 
-</div>
+<br/>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=D1A01F&center=true&vCenter=true&width=700&lines=Turning+ideas+into+reality+with+code+💻;Building+scalable+MERN+apps+🚀;Always+learning%2C+always+growing+📚;Open+to+opportunities+%26+collaborations+🤝" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1000&color=98b982&center=true&vCenter=true&width=600&height=30&lines=MERN+Stack+Developer+%7C+MCA+Student+%7C+Bhubaneswar%2C+India" alt="subtitle" />
 
 <br/><br/>
 
@@ -18,28 +16,9 @@
 
 </div>
 
-<br/>
-
 ---
 
-<img align="right" width="310" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
-
-<!--
-  ╔══════════════════════════════════════════╗
-  ║  HOW TO USE YOUR PINTEREST IMAGE         ║
-  ║  GitHub blocks Pinterest & iframes.      ║
-  ║  Fix it in 3 steps:                      ║
-  ║  1. Save the image to your computer      ║
-  ║  2. Upload it to this repo under         ║
-  ║     assets/coder.png                     ║
-  ║  3. Replace the giphy src above with:    ║
-  ║  https://raw.githubusercontent.com/      ║
-  ║  kaku-coder/kaku-coder/main/assets/      ║
-  ║  coder.png                               ║
-  ╚══════════════════════════════════════════╝
--->
-
-### 👨‍💻 About Me
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ```javascript
 const prakash = {
