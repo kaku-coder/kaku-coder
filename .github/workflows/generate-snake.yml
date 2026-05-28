@@ -17,13 +17,14 @@ jobs:
     permissions:
       contents: write
     steps:
-      # Generates a snake game from a github user contributions graph
+      # Generates both light and dark mode snake SVGs
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: kaku-coder
           outputs: |
-            dist/github-contribution-grid-snake2.svg?color_snake=blue&palette=github-dark
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       # Push the content of <build_dir> to the output branch
       - name: Push github-contribution-grid-snake.svg to the output branch
