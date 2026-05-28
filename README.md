@@ -18,8 +18,6 @@
 
 ---
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 ```javascript
 const prakash = {
   name      : "Prakash Das",
@@ -42,8 +40,6 @@ const prakash = {
   available : true,
 };
 ```
-
-<br clear="right"/>
 
 <br/>
 
@@ -125,16 +121,6 @@ const prakash = {
 
 ---
 
-## 🏆 &nbsp;GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kaku-coder&theme=gruvbox&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/kaku-coder)
-
-</div>
-
----
-
 ## 📊 &nbsp;GitHub Statistics
 
 <div align="center">
@@ -167,7 +153,7 @@ const prakash = {
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaku-coder/kaku-coder/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaku-coder/kaku-coder/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/kaku-coder/kaku-coder/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/kaku-coder/kaku-coder/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
