@@ -27,15 +27,15 @@ const prakash = {
   email     : "devilprakashdas@gmail.com",
 
   stack: {
-    frontend  : ["HTML", "CSS", "SCSS", "JS", "React",
+    frontend  : ["HTML", "CSS", "SCSS", "JS", "React", "Next.js",
                  "Redux", "Tailwind", "Bootstrap", "GSAP"],
     backend   : ["Node.js", "Express.js", "REST APIs", "JWT"],
-    database  : ["MongoDB", "Mongoose"],
-    languages : ["JavaScript", "C", "Python"],
-    tools     : ["Git", "GitHub", "VS Code", "Postman", "npm"],
+    database  : ["MongoDB", "Mongoose", "Supabase"],
+    languages : ["JavaScript", "TypeScript", "C", "Python"],
+    tools     : ["Git", "GitHub", "VS Code", "Postman", "npm", "Docker", "AWS"],
   },
 
-  learning  : ["TypeScript", "Docker", "AWS"],
+  learning  : ["Rust", "GraphQL"],
   funFact   : "My first site = black page + 1 red button 😂",
   available : true,
 };
@@ -44,7 +44,7 @@ const prakash = {
 <br/>
 
 - 🔭 &nbsp;Currently building **full-stack MERN applications**
-- 🌱 &nbsp;Exploring **TypeScript, Docker & AWS**
+- 🌱 &nbsp;Exploring **Rust & GraphQL**
 - 💬 &nbsp;Ask me about **React, Node.js, MongoDB, GSAP, CSS/SCSS**
 - 📫 &nbsp;Reach me at **devilprakashdas@gmail.com**
 - ⚡ &nbsp;Fun fact — *My first website was a black page with one red button and I was so proud of it!*
@@ -79,6 +79,7 @@ const prakash = {
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -92,6 +93,7 @@ const prakash = {
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
@@ -99,6 +101,7 @@ const prakash = {
 #### 💻 &nbsp;Languages
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
@@ -110,53 +113,15 @@ const prakash = {
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-</p>
-
-#### 📚 &nbsp;Currently Learning
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
----
-
-## 📊 &nbsp;GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kaku-coder&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaku-coder&theme=gruvbox&hide_border=true" />
-
-<br/>
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaku-coder&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" />
-
-</div>
-
----
-
-## 📈 &nbsp;Contribution Graph
-
-<div align="center">
-
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kaku-coder&bg_color=282828&color=d1a01f&line=c58545&point=98b982&area=true&area_color=c58545&hide_border=true&custom_title=Prakash's%20Contribution%20Graph)](https://github.com/kaku-coder)
-
-</div>
-
----
-
-## 🐍 &nbsp;Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaku-coder/kaku-coder/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaku-coder/kaku-coder/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/kaku-coder/kaku-coder/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-</div>
+#### 📚 &nbsp;Currently Learning
+<p>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+</p>
 
 ---
 
@@ -175,11 +140,12 @@ const prakash = {
 ```text
 ✅  Build 3+ full MERN stack projects
 ✅  Master React + Redux Toolkit
-⬜  Learn TypeScript deeply
-⬜  Deploy production apps on AWS
+✅  Learn TypeScript
+✅  Get comfortable with Docker & AWS
 ⬜  Contribute to Open Source
 ⬜  Land a Web Dev internship / job
-⬜  Master Docker & CI/CD basics
+⬜  Master Rust
+⬜  Learn GraphQL deeply
 ```
 
 ---
