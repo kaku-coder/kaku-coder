@@ -18,7 +18,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Open%20to-Internships-d1a01f?style=flat-square" alt="Open to Internships"/>
 &nbsp;
-<a href="mailto:devilprakashdas@gmail.com"><img src="https://img.shields.io/badge/Email-devilprakashdas%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:prakashdasdev1@gmail.com"><img src="https://img.shields.io/badge/Email-devilprakashdas%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
