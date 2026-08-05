@@ -30,7 +30,7 @@ const prakash = {
   alias     : "kaku-coder 🥷",
   location  : "Bhubaneswar, India 🇮🇳",
   education : "MCA Student",
-  email     : "devilprakashdas@gmail.com",
+  email     : "prakashdasdev1@gmail.com",
 
   stack: {
     frontend  : ["HTML", "CSS", "SCSS", "JS", "React", "Next.js",
